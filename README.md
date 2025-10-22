@@ -39,7 +39,6 @@ Ce mémoire analyse les principaux facteurs socio-économiques influençant le c
 
 - `memoire.pdf` : version complète du mémoire
 - `README.md` : présentation du projet
-- `figures/` : graphiques et visualisations extraits du mémoire
 - `data/` : structure des variables utilisées 
 
 ## 📎 Citation
